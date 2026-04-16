@@ -91,7 +91,7 @@ To develop a deep learning model that can:
 ---
 
 ## 📷 Sample Output
-![Prediction Example](output.png)
+![Prediction Example](https://github.com/Saurabhgithub1006/Racoon-Detection/blob/main/Screenshot%202026-04-16%20235815.png)
 
 ---
 
