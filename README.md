@@ -91,7 +91,7 @@ To develop a deep learning model that can:
 ---
 
 ## 📷 Sample Output
-(Add images here showing predicted bounding boxes)
+![Prediction Example](output.png)
 
 ---
 
